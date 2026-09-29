@@ -2,13 +2,59 @@
 
 ## 💫 About Me
 
-🎓 Final-year Computer Science student
-💻 Java & Full-Stack Development enthusiast
-🌱 Currently learning Java, Spring Boot, React, SQL & DSA
-🧩 Interested in FinTech, AI & real-world software solutions
-🛠️ Enjoy building practical projects and solving problems
-📚 Continuously learning and improving my technical skills
-🎯 Aspiring Software Developer
+🎓 Final-year **Computer Science student**
+💻 Passionate about **Java & Full-Stack Development**
+🚀 Currently focusing on **Java, Spring Boot, React, SQL & DSA**
+🧩 Interested in **FinTech, AI & scalable software applications**
+🛠️ Enjoy building **real-world projects** and turning ideas into working applications
+🧠 Interested in **problem-solving, backend development & database systems**
+📚 Constantly learning new technologies and strengthening my fundamentals
+🎯 Aspiring to grow as a **Software Developer**
+
+---
+
+## 🛠️ What I Do
+
+* ☕ Build applications using **Java & Spring Boot**
+* ⚛️ Create interactive interfaces with **React**
+* 🗄️ Work with **SQL, MySQL & databases**
+* 🧩 Practice **Data Structures & Algorithms**
+* 🔐 Explore **secure and scalable application design**
+* 💡 Build projects around **FinTech, AI & real-world problems**
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 TrustVerse — AI-Powered Document Verification
+
+Exploring an intelligent approach to document verification that combines **AI-based analysis with secure verification techniques** to identify inconsistencies and potential tampering across different document domains.
+
+### 🏦 Bank Management System
+
+A full-stack banking application built with **Java, Spring Boot, React and SQL**, focusing on backend development, database management and real-world banking operations.
+
+### 🧑‍🤝‍🧑 UniMentor
+
+A platform designed to connect **students and alumni**, enabling mentorship, communication and knowledge sharing.
+
+### 🏥 UniHeal
+
+A university-oriented healthcare platform designed to connect students with counselors and support the management of student wellness services.
+
+---
+
+## 📚 Currently Learning
+
+```text
+Java             ████████████████░░░░
+Spring Boot      █████████████░░░░░░░
+React            ████████████░░░░░░░░
+SQL & DBMS       ███████████████░░░░░
+DSA              ███████████░░░░░░░░░
+```
+
+> My goal isn't just to learn technologies — it's to understand them well enough to build something useful with them.
 
 ---
 
@@ -54,16 +100,6 @@
 
 ---
 
-## 🚀 Currently Working On
-
-* 🔹 Strengthening **Java & Spring Boot**
-* 🔹 Building **full-stack applications**
-* 🔹 Improving **DSA & problem-solving**
-* 🔹 Exploring **FinTech & AI-based applications**
-* 🔹 Learning how to design **scalable and practical software systems**
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -77,6 +113,14 @@
 
 ---
 
-### 💡
+### 🌱 A Little More About Me
 
-> **Learn. Build. Solve. Grow. 🚀**
+💃 Passionate about **Bharatanatyam**
+🎨 Enjoy **sketching**
+🎧 Love **music**
+💡 Curious about how technology can solve real-world problems
+
+---
+
+> **Learn. Build. Solve. Improve. 🚀**
+
